@@ -1,2 +1,2 @@
-const { describle, assert } = require('src/Best');
+const { describle, assert } = require('src/BoTest');
 module.exports = { describle, assert };
