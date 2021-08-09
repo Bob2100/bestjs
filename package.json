@@ -1,0 +1,22 @@
+{
+  "name": "bestjs",
+  "version": "1.0.0",
+  "description": "js测试框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Bob2100/bestjs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Bob2100/bestjs/issues"
+  },
+  "homepage": "https://github.com/Bob2100/bestjs#readme",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
