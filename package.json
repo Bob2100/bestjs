@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Bob2100/bestjs.git"
+    "url": "git+https://github.com/Bob2100/bo-test-js.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Bob2100/bestjs/issues"
+    "url": "https://github.com/Bob2100/bo-test-js/issues"
   },
-  "homepage": "https://github.com/Bob2100/bestjs#readme",
+  "homepage": "https://github.com/Bob2100/bo-test-js#readme",
   "dependencies": {
     "chalk": "^4.1.2"
   }
