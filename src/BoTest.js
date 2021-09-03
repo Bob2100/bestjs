@@ -6,8 +6,7 @@ function assert(desc, condition) {
     console.log(chalk.red(desc, ' error'));
   }
 }
-function describle(desc, callback) {
-  console.log(chalk.blue(desc));
+function test(callback) {
   callback();
 }
-module.exports = { describle, assert }
+module.exports = { test, assert }
